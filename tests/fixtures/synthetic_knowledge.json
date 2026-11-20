@@ -1,0 +1,14 @@
+{
+  "version": "synthetic-software-test-v1",
+  "approval_status": "approved",
+  "reviewed_by": "Synthetic software fixture, NOT an actual clinical review",
+  "reviewed_at": "2026-11-19",
+  "sources": [
+    {
+      "id": "synthetic-1",
+      "title": "Synthetic software reference, not medical content",
+      "url": "https://example.invalid/synthetic-reference",
+      "text": "Software-test fixture only. SCREENING_TEST is a preliminary test flag, not a diagnosis. This is not clinical guidance."
+    }
+  ]
+}
